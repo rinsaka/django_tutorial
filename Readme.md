@@ -76,7 +76,7 @@ Password (again):
 
 ## Web サーバの起動とブラウザからのアクセス
 
-- Web サーバの起動
+- Web サーバの起動（停止するときは Ctrl + C を押す）
 ~~~
 % python manage.py runserver
 ~~~
